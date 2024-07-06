@@ -578,3 +578,10 @@ footer{
   width: 21.1px; */
   margin-right: 26px;
 }
+
+.num{
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #f2f2f2;
+  margin-bottom: 5px;
+}
